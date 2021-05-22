@@ -1,6 +1,6 @@
 # SOAP3-swap
 
-SOAP3-swap is a GPU-based software based on SOAP3-dp for aligning short reads to a reference sequence considering swap of adjacent bases.
+SOAP3-swap is a GPU-based software based on SOAP3-dp for aligning short reads to a reference sequence considering swaps of adjacent bases.
 
 # <a name="Section1"></a>1. Hardware and Platform
 
