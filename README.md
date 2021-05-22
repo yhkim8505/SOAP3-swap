@@ -11,4 +11,4 @@ To run SOAP3-swap, you need a linux workstation equipped with
 
 SOAP3-swap has been tested with the following GPU: NVIDIA Geforce 2080 Ti (11GB memory).
 
-SOAP3-swap was developed under the 64-bit linux platform and the CUDA Driver version 9.0. (users are advised to remove the Virtual Memory limit using the command "ulimit -v unlimited").
+SOAP3-swap was developed under the 64-bit linux platform and the CUDA Driver version 9.0.
