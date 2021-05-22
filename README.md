@@ -114,4 +114,4 @@ Example: Assume read files query1.fa and query2.fa, and insert size range [200, 
 
 > MatchScore (default 1), MismatchScore (default -2), GapOpenScore (default -3), GapExtendScore (default -1), swap (default -1):
 
-These four parameters are the scorings of single match, single mismatch, gap opening, gap extension, and single swap in the dynamic programming module. MatchScore can be any integer greater than or equal to 1; the other scores can be any integers in the range [-10,-1].
+These five parameters are the scorings of single match, single mismatch, gap opening, gap extension, and single swap in the dynamic programming module. MatchScore can be any integer greater than or equal to 1; the other scores can be any integers in the range [-10,-1].
