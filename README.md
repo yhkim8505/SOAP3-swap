@@ -7,11 +7,11 @@ SOAP3-swap is a GPU-based software based on SOAP3-dp for aligning short reads to
 To run SOAP3-swap, you need a linux workstation equipped with
 
   * a multi-core CPU with at least 16GB main memory (default quad-core);
-  * a CUDA-enabled GPU with compute capability 9.0 and at least 3GB memory.
+  * a CUDA-enabled GPU with compute capability 9.1 and at least 3GB memory.
 
 SOAP3-swap has been tested with the following GPU: NVIDIA Geforce 2080 Ti (11GB memory).
 
-SOAP3-swap was developed under the 64-bit linux platform and the CUDA Driver version 9.0.
+SOAP3-swap was developed under the 64-bit linux platform and the CUDA Driver version 9.1.
 
 # <a name="Section2"></a>2. Usage (Almost same as SOAP3-dp)
 
