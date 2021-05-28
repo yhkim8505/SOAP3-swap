@@ -13,7 +13,7 @@ SOAP3-swap has been tested with the following GPU: NVIDIA Geforce 2080 Ti (11GB 
 
 SOAP3-swap was developed under the 64-bit linux platform and the CUDA Driver version 9.1.
 
-# <a name="Section2"></a>2. Usage (Almost same as SOAP3-dp)
+# <a name="Section2"></a>2. Usage (Almost same to SOAP3-dp)
 
 ## <a name="Section2.1"></a>2.1 Index builder
 
